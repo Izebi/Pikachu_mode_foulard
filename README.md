@@ -11,3 +11,7 @@ Commit de la réalisation de la partie 'Queue'
 Commit de la réalisation de la partie 'Chapeau et lunettes 2ème commit'.
 
 ![Capture d’écran (33)](https://user-images.githubusercontent.com/46560785/126583166-c60b9a05-ef1e-4c7c-baa6-c367263c4a30.png)
+
+Réalisation de la partie 'Visage... commit 2'.
+
+![Capture d’écran (35)](https://user-images.githubusercontent.com/46560785/126588823-4878895f-1130-437d-afeb-5caec1fa34c7.png)
